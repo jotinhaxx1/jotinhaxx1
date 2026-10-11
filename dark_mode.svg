@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 360" width="100%" height="100%" style="background:#0d1117; border-radius:10px; font-family: monospace;">
+  <style>
+    .ascii { fill: #c9d1d9; font-size: 9px; white-space: pre; }
+    .head { fill: #58a6ff; font-weight: bold; font-size: 11px; }
+    .lbl { fill: #f0883e; font-size: 11px; }
+    .val { fill: #58a6ff; font-size: 11px; }
+    .dot { fill: #484f58; font-size: 11px; }
+    .txt { fill: #c9d1d9; font-size: 11px; }
+  </style>
+
+  <!-- Boneco ASCII do Andrew -->
+  <text x="15" y="20" class="ascii">
+         g@%%@%X@NXNw,,
+       ,M*|`||*%gNM=]mMKg||%N,
+      p!'`  '! '|'` '' '|||jhlj%w
+    ,@L `   ,   ,   ,   `!`|j%M]%M
+   ]j`  `  -,wp@pw,   `   ` `'%Wg
+  /{\|]}@@@@@@@@@@pp.         ||||
+ ' @@@@@@@@@@@@@@@@p     ,   ,  *
+ : ]%%%%@@@@%%%%%%k%h '*||mkr   *
+   j%M`      |jkk'  ~nrn=|i   ;`
+ !  jrr*^`            `"!  L'`:!
+ j  1p;,.  ,/ @@    ,;\nmy  "  ~
+ i r @@@@mmHM @@@  *****M*,p ;,
+ | ]@@@@HHH]gM%%%%H,jmgpmb%  j
+ ;;%%%%%%k@[,.n|.;j%%k|k%%', [
+ H|%%k%%%j%k||,;;j!!'|ij}]@
+ "djjmkL,"]] [,,,wwxw;|#kjk`
+   %;%km%%%%M%M|%%jkkii|||[
+     kjj%%kkkl||||||||j|||"
+     |jm%H@@b%%kkmk%i!|,[
+     @p|j%%%%jkk|||j*'`j[
+   ]@@@g [ `'` ' ` '  , ;jkk
+   @@@@@mgmp;,,,.,;;jj%%k%
+  @@@@@@@@%%kgki!|jjjj%k%@ .
+.^[ ' ' %@@@@HH%b%k{illljkjj%%%; `, `.
+=[' ` . `%HH%%%%H@gkllljj%kk%".  ` 'i
+  </text>
+
+  <!-- Informações Coloridas (Estilo Terminal) -->
+  <g transform="translate(320, 25)">
+    <!-- Header -->
+    <text y="0" class="head">jota@macae <tspan class="dot">---------------------------------------</tspan></text>
+    
+    <!-- OS & Ed -->
+    <text y="20" class="dot">. <tspan class="lbl">OS:</tspan> <tspan class="dot">......................</tspan> <tspan class="val">Windows 11, Linux (Ubuntu)</tspan></text>
+    <text y="35" class="dot">. <tspan class="lbl">Education:</tspan> <tspan class="dot">...</tspan> <tspan class="val">Studying Control &amp; Automation Engineering</tspan></text>
+    <text y="50" class="dot">. <tspan class="lbl">Host:</tspan> <tspan class="dot">..............................</tspan> <tspan class="val">Macaé, RJ - Brazil</tspan></text>
+    <text y="65" class="dot">. <tspan class="lbl">Status:</tspan> <tspan class="dot">...</tspan> <tspan class="val">Tech Student &amp; Automation Enthusiast</tspan></text>
+    <text y="80" class="dot">. <tspan class="lbl">IDE:</tspan> <tspan class="dot">.............</tspan> <tspan class="val">VSCode, Arduino IDE, PyCharm, CLion</tspan></text>
+
+    <!-- Languages -->
+    <text y="110" class="dot">. <tspan class="lbl">Languages.Programming:</tspan> <tspan class="dot">..........</tspan> <tspan class="val">Python, C++, C, SQL</tspan></text>
+    <text y="125" class="dot">. <tspan class="lbl">Languages.Hardware:</tspan> <tspan class="dot">...............</tspan> <tspan class="val">Arduino, ESP32, PLC</tspan></text>
+    <text y="140" class="dot">. <tspan class="lbl">Languages.Real:</tspan> <tspan class="dot">............</tspan> <tspan class="val">Portuguese (Native), English</tspan></text>
+
+    <!-- Hobbies -->
+    <text y="170" class="dot">. <tspan class="lbl">Hobbies.Software:</tspan> <tspan class="dot">.........</tspan> <tspan class="val">Task Automation, Computer Vision</tspan></text>
+    <text y="185" class="dot">. <tspan class="lbl">Hobbies.Hardware:</tspan> <tspan class="dot">.........</tspan> <tspan class="val">Electronics, Microcontrollers, IoT</tspan></text>
+
+    <!-- Contact -->
+    <text y="215" class="txt">- Contact <tspan class="dot">------------------------------------</tspan></text>
+    <text y="230" class="dot">. <tspan class="lbl">Email.Personal:</tspan> <tspan class="dot">..................</tspan> <tspan class="val">jotinhaxxt@gmail.com</tspan></text>
+    <text y="245" class="dot">. <tspan class="lbl">LinkedIn:</tspan> <tspan class="dot">........................</tspan> <tspan class="val">linkedin.com/in/jota</tspan></text>
+    <text y="260" class="dot">. <tspan class="lbl">Discord:</tspan> <tspan class="dot">...................................</tspan> <tspan class="val">jotinhaxxt</tspan></text>
+
+    <!-- Stats -->
+    <text y="290" class="txt">- GitHub Stats <tspan class="dot">-------------------------------</tspan></text>
+    <text y="305" class="dot">. <tspan class="lbl">Repos:</tspan> <tspan class="val">12</tspan> | <tspan class="lbl">Stars:</tspan> <tspan class="val">5</tspan> | <tspan class="lbl">Followers:</tspan> <tspan class="val">10</tspan></text>
+    <text y="320" class="dot">. <tspan class="lbl">Commits:</tspan> <tspan class="val">150</tspan> | <tspan class="lbl">Lines of Code:</tspan> <tspan class="val">15,240++</tspan></text>
+  </g>
+</svg>
