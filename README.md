@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="dark_mode.svg" width="100%" alt="Jota Terminal Profile" />
+  <img src="dark_mode.svg?v=2" width="100%" alt="Jota Terminal Profile" />
 </div>
 
 <br />
@@ -8,6 +8,6 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,postgres,opencv,arduino,raspberrypi,linux,docker,git,github,vscode,pycharm,clion,android,telegram,html,css,latex&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,postgres,arduino,raspberrypi,linux,docker,git,github,vscode,pycharm,clion,html,css,latex&perline=10&theme=dark" />
   </a>
 </div>
