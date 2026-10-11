@@ -16,7 +16,9 @@
 
 ---
 
-<!-- Animação do Dino Chrome -->
+<!-- Terminal Animado Executando Código -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" alt="Dino Runner Animation" />
+  <a href="https://github.com/jotinhaxx1">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=39D353&background=0D1117&center=true&vCenter=true&width=650&height=100&lines=jota%40macae%3A~%20python3%20main_control.py;%5BOK%5D%20Initializing%20OpenCV%20Camera%20Feed...;%5BOK%5D%20Connecting%20to%20PLC%20via%20Modbus%2FTCP...;%5BOK%5D%20System%20Ready.%20Executing%20Control%20Loop..." alt="Terminal Running Code" />
+  </a>
 </div>
