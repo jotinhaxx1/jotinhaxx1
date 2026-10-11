@@ -1,39 +1,97 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1048" height="710" viewBox="0 0 1048 710" role="img" aria-label="ASCII GitHub profile card for jotinhaxx1">
-  <rect x="0.5" y="0.5" width="1047" height="709" rx="8" fill="#0d1117" stroke="#30363d"/>
-  
-  <!-- LADO ESQUERDO: Microchip ASCII Técnico -->
-  <text x="35" y="160" fill="#58a6ff" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12">
-           +-----------------------+
-       ====|  .-----------------.  |====
-       ====|  |  AUTOMATION MCU |  |====
-       ====|  |  IFF - CONTROL  |  |====
-       ====|  '-----------------'  |====
-       ====|   [::]   [::]  [::]   |====
-       ====|   [::]   [::]  [::]   |====
-       ====|                       |====
-       ====|   [OPENCV]   [PLC]    |====
-       ====|   [C / C++]  [PYTHON] |====
-           +-----------------------+
+<svg xmlns="http://www.w3.org/2000/svg" width="1048" height="540" viewBox="0 0 1048 540" role="img" aria-label="Control &amp; Automation Profile Card">
+  <!-- Fundo escuro estilo GitHub -->
+  <rect x="0.5" y="0.5" width="1047" height="539" rx="8" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- COLUNA ESQUERDA: Informacoes Profissionais -->
+  <text x="35" y="45" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="12">
+    <tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> jota@macae </tspan><tspan fill="#3d444d">────────────────────────────────────────────</tspan>
   </text>
 
-  <!-- LADO DIREITO: Informações de Engenharia -->
-  <text x="440" y="60" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> jota@macae </tspan><tspan fill="#3d444d">───────────────────────────────────────────────────────</tspan></text>
-  <text x="440" y="85" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. OS: </tspan><tspan fill="#484f58">............................</tspan><tspan fill="#79c0ff"> Windows 11, Linux (Ubuntu), Android</tspan></text>
-  <text x="440" y="110" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. Degree: </tspan><tspan fill="#484f58">........................</tspan><tspan fill="#79c0ff"> Control &amp; Automation Engineering (IFF)</tspan></text>
-  <text x="440" y="135" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. Technical: </tspan><tspan fill="#484f58">.....................</tspan><tspan fill="#79c0ff"> Industrial Automation Technician (IFF)</tspan></text>
-  <text x="440" y="160" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. Credential: </tspan><tspan fill="#484f58">....................</tspan><tspan fill="#79c0ff"> CFT Active Registration (Industrial Tech)</tspan></text>
-  <text x="440" y="185" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. Focus: </tspan><tspan fill="#484f58">.........................</tspan><tspan fill="#79c0ff"> Industrial Automation, Vision Systems &amp; IoT</tspan></text>
+  <text x="35" y="75" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="11.5">
+    <tspan fill="#ffa657">. OS: </tspan><tspan fill="#484f58">.........................</tspan><tspan fill="#79c0ff"> Windows 11, Linux (Ubuntu), Android</tspan>
+  </text>
+  <text x="35" y="98" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="11.5">
+    <tspan fill="#ffa657">. Degree: </tspan><tspan fill="#484f58">.....................</tspan><tspan fill="#79c0ff"> Control &amp; Automation Eng. (IFF)</tspan>
+  </text>
+  <text x="35" y="121" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="11.5">
+    <tspan fill="#ffa657">. Technical: </tspan><tspan fill="#484f58">..................</tspan><tspan fill="#79c0ff"> Industrial Automation Tech (IFF)</tspan>
+  </text>
+  <text x="35" y="144" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="11.5">
+    <tspan fill="#ffa657">. Credential: </tspan><tspan fill="#484f58">.................</tspan><tspan fill="#79c0ff"> CFT Active Registration (Industrial Tech)</tspan>
+  </text>
+  <text x="35" y="167" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="11.5">
+    <tspan fill="#ffa657">. Focus: </tspan><tspan fill="#484f58">......................</tspan><tspan fill="#79c0ff"> Industrial Automation, Vision &amp; IoT</tspan>
+  </text>
 
-  <text x="440" y="225" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. Languages.Programming: </tspan><tspan fill="#484f58">.......</tspan><tspan fill="#79c0ff"> Python, C++, C, SQL</tspan></text>
-  <text x="440" y="250" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. Languages.Automation: </tspan><tspan fill="#484f58">........</tspan><tspan fill="#79c0ff"> PLCs, Ladder, TIA Portal, Studio 5000, GX Works2</tspan></text>
-  <text x="440" y="275" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. Languages.Hardware: </tspan><tspan fill="#484f58">..........</tspan><tspan fill="#79c0ff"> Arduino, ESP32, Raspberry Pi, Sensors &amp; IoT</tspan></text>
-  <text x="440" y="300" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. Languages.Vision&amp;Tools: </tspan><tspan fill="#484f58">......</tspan><tspan fill="#79c0ff"> OpenCV, Docker, Git, Linux, LaTeX, Telegram API</tspan></text>
-  <text x="440" y="325" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. Languages.Real: </tspan><tspan fill="#484f58">..............</tspan><tspan fill="#79c0ff"> Portuguese (Native), English</tspan></text>
+  <text x="35" y="205" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="11.5">
+    <tspan fill="#ffa657">. Languages.Programming: </tspan><tspan fill="#484f58">....</tspan><tspan fill="#79c0ff"> Python, C++, C, SQL</tspan>
+  </text>
+  <text x="35" y="228" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="11.5">
+    <tspan fill="#ffa657">. Languages.Automation: </tspan><tspan fill="#484f58">.....</tspan><tspan fill="#79c0ff"> PLCs, Ladder, TIA Portal, Studio 5000</tspan>
+  </text>
+  <text x="35" y="251" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="11.5">
+    <tspan fill="#ffa657">. Languages.Hardware: </tspan><tspan fill="#484f58">.......</tspan><tspan fill="#79c0ff"> Arduino, ESP32, Raspberry Pi, Sensors</tspan>
+  </text>
+  <text x="35" y="274" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="11.5">
+    <tspan fill="#ffa657">. Languages.Vision&amp;Tools: </tspan><tspan fill="#484f58">...</tspan><tspan fill="#79c0ff"> OpenCV, Docker, Git, Linux, LaTeX</tspan>
+  </text>
+  <text x="35" y="297" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="11.5">
+    <tspan fill="#ffa657">. Languages.Real: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> Portuguese (Native), English</tspan>
+  </text>
 
-  <text x="440" y="365" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. Hobbies.Software: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> Computer Vision, Automation Scripts, Embedded Python</tspan></text>
-  <text x="440" y="390" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. Hobbies.Hardware: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> Smart Home Devices, Electronics Repair, IoT Projects</tspan></text>
+  <text x="35" y="335" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="11.5">
+    <tspan fill="#ffa657">. Hobbies.Software: </tspan><tspan fill="#484f58">........</tspan><tspan fill="#79c0ff"> Computer Vision, Automation Scripts</tspan>
+  </text>
+  <text x="35" y="358" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="11.5">
+    <tspan fill="#ffa657">. Hobbies.Hardware: </tspan><tspan fill="#484f58">........</tspan><tspan fill="#79c0ff"> Smart Home Devices, Electronics Repair</tspan>
+  </text>
 
-  <text x="440" y="430" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Contact </tspan><tspan fill="#3d444d">──────────────────────────────────────────────────────────────────</tspan></text>
-  <text x="440" y="455" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. Email.Personal: </tspan><tspan fill="#484f58">..........</tspan><tspan fill="#79c0ff"> jprochaassis@gmail.com</tspan></text>
-  <text x="440" y="480" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="12"><tspan fill="#ffa657">. LinkedIn: </tspan><tspan fill="#484f58">................</tspan><tspan fill="#79c0ff"> in/jprochaassis</tspan></text>
+  <text x="35" y="398" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="12">
+    <tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Contact </tspan><tspan fill="#3d444d">─────────────────────────────────────────────────</tspan>
+  </text>
+  <text x="35" y="423" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="11.5">
+    <tspan fill="#ffa657">. Email.Personal: </tspan><tspan fill="#484f58">.......</tspan><tspan fill="#79c0ff"> jprochaassis@gmail.com</tspan>
+  </text>
+  <text x="35" y="446" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="11.5">
+    <tspan fill="#ffa657">. LinkedIn: </tspan><tspan fill="#484f58">.............</tspan><tspan fill="#79c0ff"> in/jprochaassis</tspan>
+  </text>
+
+
+  <!-- COLUNA DIREITA: Mini Terminal de Execucao de Codigo / Loop de Controle -->
+  <g transform="translate(560, 35)">
+    <!-- Moldura do mini terminal -->
+    <rect x="0" y="0" width="450" height="465" rx="6" fill="#161b22" stroke="#30363d"/>
+    
+    <!-- Barra superior do mini terminal -->
+    <path d="M0,6 A6,6 0 0,1 6,0 L444,0 A6,6 0 0,1 450,6 L450,28 L0,28 Z" fill="#21262d"/>
+    <circle cx="15" cy="14" r="4" fill="#f85149"/>
+    <circle cx="28" cy="14" r="4" fill="#e3b341"/>
+    <circle cx="41" cy="14" r="4" fill="#39d353"/>
+    <text x="58" y="18" fill="#8b949e" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10">bash - main_control.py</text>
+
+    <!-- Codigo e Log do Loop de Controle -->
+    <text x="15" y="52" fill="#39d353" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="11">$ python3 main_control.py</text>
+    <text x="15" y="75" fill="#8b949e" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">[INIT] Loading OpenCV vision modules...</text>
+    <text x="15" y="93" fill="#58a6ff" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">[OK] Camera stream online @ 60 FPS</text>
+    
+    <text x="15" y="120" fill="#8b949e" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">[INIT] Connecting to Siemens PLC via Modbus...</text>
+    <text x="15" y="138" fill="#58a6ff" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">[OK] Modbus/TCP Link Established</text>
+
+    <!-- Bloco de Codigo do Loop PID / Visao -->
+    <text x="15" y="175" fill="#d2a8ff" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">while <tspan fill="#79c0ff">system_active</tspan>:</text>
+    <text x="30" y="195" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">frame = cam.<tspan fill="#79c0ff">read_frame()</tspan></text>
+    <text x="30" y="215" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">target = vision.<tspan fill="#79c0ff">detect_object</tspan>(frame)</text>
+    <text x="30" y="235" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">err = pid.<tspan fill="#79c0ff">compute_error</tspan>(target)</text>
+    <text x="30" y="255" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">plc.<tspan fill="#79c0ff">write_register</tspan>(<tspan fill="#a5d6ff">0x04</tspan>, err)</text>
+
+    <!-- Log Continuo do Sistema -->
+    <text x="15" y="295" fill="#8b949e" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10">--------------------------------------</text>
+    <text x="15" y="318" fill="#79c0ff" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">[LOOP #1042] Target detected: (x:120, y:84)</text>
+    <text x="15" y="338" fill="#39d353" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">[PID] Error: 0.00 | Signal: 100% PWM</text>
+    <text x="15" y="358" fill="#79c0ff" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">[PLC] Valve position updated</text>
+    <text x="15" y="378" fill="#39d353" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">[STATUS] System running smoothly...</text>
+    
+    <!-- Cursor do Terminal -->
+    <text x="15" y="415" fill="#39d353" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="12">> <tspan fill="#c9d1d9">_</tspan></text>
+  </g>
 </svg>
