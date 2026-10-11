@@ -25,10 +25,10 @@
     .line-9 { animation: fadeIn 0.4s ease-in 4.6s forwards; opacity: 0; }
   </style>
 
-  <!-- Fundo Escuro -->
+ 
   <rect x="0.5" y="0.5" width="1047" height="539" rx="8" fill="#0d1117" stroke="#30363d"/>
 
-  <!-- COLUNA ESQUERDA: Informações Profissionais -->
+  
   <text x="35" y="45" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="12"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> jota@macae </tspan><tspan fill="#3d444d">────────────────────────────────────────────</tspan></text>
 
   <text x="35" y="75" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="11.5"><tspan fill="#ffa657">. OS: </tspan><tspan fill="#484f58">.........................</tspan><tspan fill="#79c0ff"> Windows 11, Linux (Ubuntu), Android</tspan></text>
@@ -50,29 +50,29 @@
   <text x="35" y="423" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="11.5"><tspan fill="#ffa657">. Email.Personal: </tspan><tspan fill="#484f58">.......</tspan><tspan fill="#79c0ff"> jprochaassis@gmail.com</tspan></text>
   <text x="35" y="446" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="11.5"><tspan fill="#ffa657">. LinkedIn: </tspan><tspan fill="#484f58">.............</tspan><tspan fill="#79c0ff"> in/jprochaassis</tspan></text>
 
-  <!-- COLUNA DIREITA: Mini Terminal Animado -->
+ 
   <g transform="translate(560, 35)">
-    <!-- Moldura do Terminal -->
+ 
     <rect x="0" y="0" width="450" height="465" rx="6" fill="#161b22" stroke="#30363d"/>
     
-    <!-- Barra Superior -->
+    
     <path d="M0,6 A6,6 0 0,1 6,0 L444,0 A6,6 0 0,1 450,6 L450,28 L0,28 Z" fill="#21262d"/>
     <circle cx="15" cy="14" r="4" fill="#f85149"/>
     <circle cx="28" cy="14" r="4" fill="#e3b341"/>
     <circle cx="41" cy="14" r="4" fill="#39d353"/>
     <text x="58" y="18" fill="#8b949e" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10">bash - main_control.py</text>
 
-    <!-- Comando Inicial -->
+    
     <text x="15" y="52" fill="#39d353" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="11">$ python3 main_control.py</text>
     
-    <!-- Logs Animados com Fading Sequencial -->
+    
     <text x="15" y="75" fill="#8b949e" class="line-1" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">[INIT] Loading OpenCV vision modules...</text>
     <text x="15" y="93" fill="#58a6ff" class="line-2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">[OK] Camera stream online @ 60 FPS</text>
     
     <text x="15" y="120" fill="#8b949e" class="line-3" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">[INIT] Connecting to Siemens PLC via Modbus...</text>
     <text x="15" y="138" fill="#58a6ff" class="line-4" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">[OK] Modbus/TCP Link Established</text>
 
-    <!-- Bloco de Código do Loop PID -->
+    
     <g class="line-5">
       <text x="15" y="175" fill="#d2a8ff" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">while <tspan fill="#79c0ff">system_active</tspan>:</text>
       <text x="30" y="195" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">frame = cam.<tspan fill="#79c0ff">read_frame()</tspan></text>
@@ -81,13 +81,13 @@
       <text x="30" y="255" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">plc.<tspan fill="#79c0ff">write_register</tspan>(<tspan fill="#a5d6ff">0x04</tspan>, err)</text>
     </g>
 
-    <!-- Logs de Execução Continuados -->
+    
     <text x="15" y="295" fill="#8b949e" class="line-6" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10">--------------------------------------</text>
     <text x="15" y="318" fill="#79c0ff" class="line-7" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">[LOOP #1042] Target detected: (x:120, y:84)</text>
     <text x="15" y="338" fill="#39d353" class="line-8" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">[PID] Error: 0.00 | Signal: 100% PWM</text>
     <text x="15" y="358" fill="#39d353" class="line-9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="10.5">[STATUS] System running smoothly...</text>
     
-    <!-- Cursor a Piscar -->
+    
     <text x="15" y="405" fill="#39d353" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="12">> <tspan fill="#39d353" class="blinking-cursor">_</tspan></text>
   </g>
 </svg>
