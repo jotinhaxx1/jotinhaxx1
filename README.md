@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="dark_mode.svg?v=3" width="100%" alt="Jota Terminal Profile" />
+  <img src="dark_mode.svg?v=4" width="100%" alt="Jota Terminal Profile" />
 </div>
 
 <br />
